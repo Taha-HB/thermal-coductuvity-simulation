@@ -23,3 +23,15 @@ xlabel('Length (m)')
 ylabel('Temperature (°C)')
 title('Heat Transfer in Copper')
 grid on
+---
+
+## Results
+The simulation clearly shows that materials with higher thermal
+conductivity (such as copper) transfer heat faster than materials with
+lower thermal conductivity (such as wood).
+
+---
+
+## Academic Purpose
+This project was developed as part of a university-level course on heat
+transfer and thermodynamics.
