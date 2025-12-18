@@ -1,4 +1,4 @@
-# Thermal Conductivity Simulation
+ # Thermal Conductivity Simulation
 
 ## Project Overview
 This project presents a numerical simulation of heat transfer through
