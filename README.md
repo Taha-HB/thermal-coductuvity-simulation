@@ -9,6 +9,7 @@ equation.
 The simulation is implemented in both Python and MATLAB for educational
 and comparative purposes.
 
+
 ---
 
 ## Key Concepts
