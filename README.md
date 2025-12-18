@@ -59,3 +59,4 @@ where:
 ### Python Version
 1. Install Python 3
 2. Install required libraries:
+3. Run the script:
